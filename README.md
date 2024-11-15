@@ -152,7 +152,7 @@ margin: auto;
             </section>
 
             <section id="skills" class="section">
-                <h2>Skills</h2>
+                <h2><b> Technical Skills</h2>
                 <li>Proficient in Windows and Mac OS operating system</li>
                 <li>Familiar with network monitoring tools such as Wireshark</li>
                 <li>Knowledge of vommon network security measures</li>
@@ -166,8 +166,8 @@ margin: auto;
                 <tittle>Academic Background</tittle>
                 <p>Bachelors Degree in Information Technology (IT) at Mount Kenya University</p>
                     <ul>
-                        <li><centre>Expected graduation: 6th December 2024</centre></li>
-                        <li><centre>GPA: 59.00</centre></li>
+                        <li><centre>Set to graduate on 6/12/2024</centre></li>
+                        
                     </ul>
                     <tittle>Professional Development</tittle>
                     <ul>
