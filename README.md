@@ -152,7 +152,7 @@ margin: auto;
             </section>
 
             <section id="skills" class="section">
-                <h2><b> Technical Skills</h2>
+                <h2><b> Technical Skills</b></h2>
                 <li>Proficient in Windows and Mac OS operating system</li>
                 <li>Familiar with network monitoring tools such as Wireshark</li>
                 <li>Knowledge of vommon network security measures</li>
